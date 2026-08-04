@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 76" role="img" aria-labelledby="title desc">
+  <title id="title">Artemis Cutie current path</title>
+  <desc id="desc">Animated terminal line cycling through student, backend, and AI application developer statements.</desc>
+  <defs><filter id="glow" x="-10%" y="-60%" width="120%" height="220%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="2" y="2" width="1076" height="72" rx="12" fill="#080b18" stroke="#7c3aed" stroke-opacity=".75"/>
+  <circle cx="32" cy="38" r="6" fill="#a855f7" filter="url(#glow)"/><text x="52" y="44" fill="#7dd3fc" font-family="Consolas, 'Courier New', monospace" font-size="23">&gt;_</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="22" filter="url(#glow)">
+    <text x="104" y="45" fill="#e9d5ff" opacity="0">Year 2 Web Development Student<set attributeName="opacity" to="1" begin="0s" dur="3.6s"/><set attributeName="opacity" to="0" begin="3.9s"/></text>
+    <text x="104" y="45" fill="#c4b5fd" opacity="0">Building toward Backend Development<set attributeName="opacity" to="1" begin="4s" dur="3.6s"/><set attributeName="opacity" to="0" begin="7.9s"/></text>
+    <text x="104" y="45" fill="#7dd3fc" opacity="0">Exploring practical AI Applications<set attributeName="opacity" to="1" begin="8s" dur="3.6s"/><set attributeName="opacity" to="0" begin="11.9s"/></text>
+  </g>
+  <rect x="655" y="25" width="2" height="27" fill="#38bdf8" filter="url(#glow)"><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect>
+</svg>

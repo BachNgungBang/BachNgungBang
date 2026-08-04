@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 54" role="img" aria-label="Cyber neon section divider">
+  <defs><linearGradient id="n" x1="0" x2="1"><stop stop-color="#7c3aed" stop-opacity="0"/><stop offset=".25" stop-color="#a855f7"/><stop offset=".5" stop-color="#e9d5ff"/><stop offset=".75" stop-color="#38bdf8"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></linearGradient><filter id="g" x="-10%" width="120%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <path d="M0 27h390l24-15h92l24 15h140l24-15h92l24 15h390" fill="none" stroke="url(#n)" stroke-width="2" filter="url(#g)"/>
+  <path d="M0 27h1200" stroke="#c4b5fd" stroke-opacity=".3" stroke-dasharray="3 12"/>
+  <circle cx="600" cy="27" r="10" fill="#0b1020" stroke="#e9d5ff" stroke-width="2"/><circle cx="600" cy="27" r="3" fill="#38bdf8" filter="url(#g)"/>
+</svg>
